@@ -1,8 +1,8 @@
-<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/ target=":pencil2:"">Edward</a> 
+<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/ target="_blank"">Edward</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center"> Beginning iOS Developer from Russia </h3>
 
-<h1 align="center"> <a href="https://daniilshat.ru/ target="_blank"">About me</a> 
+<h1 align="center"> <a href="https://daniilshat.ru/ target="_pencil"">About me</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center"> </h3>
 
