@@ -14,6 +14,7 @@
 <h3 align="center"> 🥑	Healthy lifestyle</h3>
 
 <h1 align="center">My Certificates 🏆</a>
+<h3 align="center">
 
            
 ![WhatsApp Image 2022-09-12 at 12 18 22](https://user-images.githubusercontent.com/94724654/189617975-70c5a008-e958-411a-895e-56bd99b3c450.jpeg)
