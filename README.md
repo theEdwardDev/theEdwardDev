@@ -1,5 +1,4 @@
 <h1 align="center">Hey 
-Hi.gif
 , I'm Edward Heladze!<a href="https://snipp.ru/handbk/emoji target="_blank""></a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center"> I'am iOS Developer from Russia </h3>
