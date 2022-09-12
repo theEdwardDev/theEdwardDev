@@ -2,7 +2,8 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center"> I'am iOS Developer from Russia </h3>
 
-<h1 align="center">About me <a href="https://snipp.ru/handbk/](https://snipp.ru/handbk/emoji target= "⬇"></a> 
+<h1 align="center">About me <a href="https://snipp.ru/handbk/](https://snipp.ru/handbk/emoji target= "&#11015;
+"></a> 
 <img src="" height="32"/></h1>
 <h3 align="center"> 
 ✌️ My name is Edward, I am 25 years old. 
