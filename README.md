@@ -2,6 +2,7 @@
 , I'm Edward Heladze!<a href="https://snipp.ru/handbk/emoji target="_blank""></a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h2 align="center"> 👨🏻‍💻 iOS Developer from Russia </h3>
+
 <h3 align="center">About me 💁‍♂️
 <h3 align="center"> 🚀  My name is Edward, I am 25 years old. 
 <h3 align="center"> <I have been doing programming for about two months, trying out different technologies, in particular in iOS.
@@ -14,7 +15,7 @@
 <h2 align="center"> 🥑	Healthy lifestyle</h3>
 
 
-<h3 align="center">My Certificates  </a>
+<h3 align="center">My Certificates   </a>
 <h3 align="center">
 
            
@@ -22,6 +23,6 @@
 ![WhatsApp Image 2022-09-12 at 12 18 18](https://user-images.githubusercontent.com/94724654/189618000-f9458549-b5ab-4129-b993-6fe98186b366.jpeg)
            
 
-<h2 align="center"> Contact me
+<h2 align="center"> Contact me 
 <h2 align="center"> 📫 How to reach me: eduard@developer-apple.ru </h2>
 
