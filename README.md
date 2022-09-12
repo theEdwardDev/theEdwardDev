@@ -13,7 +13,55 @@
 <h3 align="center"> 🏋️‍♀️	I love sport. It's one of my favorite hobbies.
 <h3 align="center"> 🥑	Healthy lifestyle</h3>
 
-<h1 align="center">My Certificates 📌 </a>
+
+<h1 align="center"> 📌 Stack  </a>
+<h3 align="center">
+
+Swift
+
+ООП, SOLID
+
+UiKit / Storyboard / xib
+
+AutoLayout
+
+Snapkit
+
+CocoaPods / Swift Package Manager (SPM)
+
+Core Data / UserDefaults / KeyChain
+
+FileManager
+
+Firebase
+
+Realm
+
+URLSession
+
+JSON Parse / REST API
+
+GCD / DQ's / Runloop
+
+MVC / MVVM / MVVM+C / MVP / MVP+C
+
+Delegate, Singleton, Factory
+
+Observer, Facade
+
+Git / GitHub
+
+Figma
+
+Photoshop
+
+MapKit
+
+AVFoundation, Core Audio, AVKit
+
+Core Animation
+
+<h1 align="center">My Certificates  </a>
 <h3 align="center">
 
            
