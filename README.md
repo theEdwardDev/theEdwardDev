@@ -2,7 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center"> I'am iOS Developer from Russia </h3>
 
-<h1 align="center">About me <a href="https://snipp.ru/handbk/emoji target="✌️""></a> 
+<h1 align="center">About me <a href="https://snipp.ru/handbk/"></a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center"> 
 ✌️ My name is Felix, I am 21 years old. I have been doing programming for about 3 years, trying out different technologies, in particular in iOS.
@@ -14,7 +14,7 @@
 ⚡ Fun fact: I love history </h3>
 
 
-<h1 align="center"> <a href="https://daniilshat.ru/ target="">Apple Certificates</a> 
+<h1 align="center"> <a href="https://daniilshat.ru/>Apple Certificates</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center"> </h3>
 
