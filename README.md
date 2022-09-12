@@ -8,13 +8,12 @@ I have been doing programming for about two months, trying out different technol
 I'm from Russia,Rostov-on-Don
 💻 I'm currently looking for a job in Mobile Development
   My favorite programming language is Swift
-✈️ I love travelling. It's one of my favorite hobbies.
-⚡ Fun fact: I love history </h3>
+  🏋️‍♀️	I love sport. It's one of my favorite hobbies.
+  🥑	For a healthy lifestyle</h3>
 
 
 <h1 align="center">My Certificates 🏆</a>
 <h3 align="center
-
 
 
 ![WhatsApp Image 2022-09-12 at 12 18 22](https://user-images.githubusercontent.com/94724654/189617975-70c5a008-e958-411a-895e-56bd99b3c450.jpeg)
