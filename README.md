@@ -3,13 +3,14 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center"> 👨🏻‍💻 I'am iOS Developer from Russia </h3>
 <h1 align="center">About me 💬
+<h1 align="center"> 
 <h1 align="center"> 🚀  My name is Edward, I am 25 years old. 
-I have been doing programming for about two months, trying out different technologies, in particular in iOS.
-I'm from Russia,Rostov-on-Don.🍏 Big fan of the Apple ecosystem
-💻 I'm currently looking for a job in Mobile Development
-  My favorite programming language is Swift
-  🏋️‍♀️	I love sport. It's one of my favorite hobbies.
-  🥑	Healthy lifestyle</h3>
+<h1 align="center"> <I have been doing programming for about two months, trying out different technologies, in particular in iOS.
+<h1 align="center"> I'm from Russia,Rostov-on-Don.🍏love of the Apple ecosystem
+<h1 align="center"> 💻 I'm currently looking for a job in Mobile Development
+ <h1 align="center"> My favorite programming language is Swift
+ <h1 align="center">  🏋️‍♀️	I love sport. It's one of my favorite hobbies.
+ <h1 align="center">  🥑	Healthy lifestyle</h3>
 
 
 <h1 align="center">My Certificates 🏆</a>
