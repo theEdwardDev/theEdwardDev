@@ -13,7 +13,7 @@
 <h3 align="center"> 🏋️‍♀️	I love sport. It's one of my favorite hobbies.
 <h3 align="center"> 🥑	Healthy lifestyle</h3>
 
-<h1 align="center">My Certificates 🏆</a>
+<h1 align="center">My Certificates 📌 </a>
 <h3 align="center">
 
            
