@@ -12,7 +12,7 @@ I'm from Russia,Rostov-on-Don
 ⚡ Fun fact: I love history </h3>
 
 
-<h1 align="center">My Certificates <a href="https://snipp.ru/handbk/emoji target="_blank""></a> 
+<h1 align="center">My Certificates🏆 "></a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center"> </h3>
 
