@@ -9,7 +9,7 @@ I'm from Russia,Rostov-on-Don
 💻 I'm currently looking for a job in Mobile Development
   My favorite programming language is Swift
   🏋️‍♀️	I love sport. It's one of my favorite hobbies.
-  🥑	For a healthy lifestyle</h3>
+  🥑	Healthy lifestyle</h3>
 
 
 <h1 align="center">My Certificates 🏆</a>
