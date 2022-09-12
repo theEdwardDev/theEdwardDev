@@ -8,7 +8,7 @@
 <h3 align="center"> </h3>
 
 
-<h1 align="center"> <a href="https://daniilshat.ru/ target="_apple"">My Apple Certificates</a> 
+<h1 align="center"> <a href="https://daniilshat.ru/ target="_apple"">Apple Certificates</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center"> </h3>
 
