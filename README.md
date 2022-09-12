@@ -4,15 +4,11 @@
 
 <h1 align="center"> <a href="https://daniilshat.ru/ target="_blank"">About me</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center"> Beginning iOS Developer from Russia </h3>
+<h3 align="center"> </h3>
 
 <h1 align="center"> <a href="https://daniilshat.ru/ target="_blank"">My Apple Sertificates</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center"> Beginning iOS Developer from Russia 
-21321321
-3213123
-3213123
-3231321</h3>
+<h3 align="center"> </h3>
 
 
 
