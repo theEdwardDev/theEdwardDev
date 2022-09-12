@@ -11,8 +11,8 @@
 <h3 align="center"> 💻 I'm currently looking for a job in Mobile Development
 <h3 align="center"> ☕	Love Coffee
 <h3 align="center"> ⚙️ My favorite programming language is Swift
-<h3 align="center"> 🏋️‍♀️	I love sport. It's one of my favorite hobbies.
-<h2 align="center"> 🥑	Healthy lifestyle</h3>
+<h3 align="center"> 🏋️‍♀️ I love sport. It's one of my favorite hobbies.
+<h2 align="center"> 🥑 Healthy lifestyle</h3>
 
 
 <h3 align="center">My Certificates   </a>
