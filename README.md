@@ -12,7 +12,7 @@ I'm from Russia,Rostov-on-Don
 ⚡ Fun fact: I love history </h3>
 
 
-<h1 align="center">My Certificates🏆 "></a>
+<h1 align="center">My Certificates🏆"
 
 
 
