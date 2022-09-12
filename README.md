@@ -5,11 +5,12 @@
 
 <h1 align="center">About me 💬 
 <h3 align="center"> 
+<h3 align= "center">
 ✌️ My name is Edward, I am 25 years old. 
 I have been doing programming for about two months, trying out different technologies, in particular in iOS.
 I'm from Russia,Rostov-on-Don
 💻 I'm currently looking for a job in Mobile Development
- My favorite programming language is Swift
+  My favorite programming language is Swift
 ✈️ I love travelling. It's one of my favorite hobbies.
 ⚡ Fun fact: I love history </h3>
 
