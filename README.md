@@ -2,8 +2,9 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center"> Beginning iOS Developer from Russia </h3>
 
-<h1 align="center">About me  <a href="https://daniilshat.ru/ >My Apple Sertificatesa> 
+<h1 align="center">ref="https://daniilshat.ru/" target="_blank">About me
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">  </h3>
 
 <h1 align="center">My Apple Sertificates <a href="https://daniilshat.ru/ >My Apple Sertificatesa> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
